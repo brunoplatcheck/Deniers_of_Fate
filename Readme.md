@@ -1,10 +1,13 @@
-<h1 align="center"> Deniers of Fate </h1>
-<p align="center">Projeto de jogo criado durante minha especialização em Game Design cursada na PUCRS.
-O jogo consiste de um bullet hell espacial, no qual a nave controlada pelo jogador voa, atira em alvos e oponentes. Tendo como mecanica core
-tem como a viagem do tempo, na qual ao deslizar a barra lateral o jogador pode voltar alguns segundos.</p>
-<p align="center">O jogo foi criado usando a Unity e escrito em C#, e feito voltado para as plataformas mobile. Os modelos foram criados
-usando O 3DMax e Blender, e testurizados usando o Substance</p>
-<p align="center">Nos arquivos: 
-Android file com o arquivo APK
-assets onde estão os modelos 3D e as testuras
-PC onde constam todos os codigos do jogo</p>
+Deniers of Fate
+Description
+Deniers of Fate is a bullet hell space game developed during my specialization in Game Design at PUCRS. In this game, players control a spaceship, shoot targets and enemies, and leverage a unique time travel mechanic. This mechanic enables players to rewind gameplay a few seconds by using a slider bar, adding a strategic layer to the action-packed experience.
+
+Technologies Used
+Game Engine: Unity
+Programming Language: C#
+3D Modeling: 3DMax, Blender
+Texturing: Substance
+File Structure
+Android: Contains the APK file for mobile platforms.
+assets: Includes 3D models and textures.
+PC: Holds all the game code.
